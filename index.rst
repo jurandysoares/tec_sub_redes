@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Técnico Integrado em Informática's documentation!
+Técnico Integrado em Informática
 ============================================================
 
 .. toctree::
@@ -11,11 +11,3 @@ Welcome to Técnico Integrado em Informática's documentation!
    :caption: Contents:
 
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
