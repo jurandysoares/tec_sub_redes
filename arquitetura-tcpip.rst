@@ -56,15 +56,14 @@ Bases Científico-Tecnológicas (Conteúdos)
 4. Camada de Redes
 
    - Fundamentos e protocolos
-
-      - Protocolo IP e ICMP
+     - Protocolo IP e ICMP
 
    - Projeto de endereçamento
 
-      - Esquema de endereçamento;
-      - Endereçamentos de sub-redes.
+     - Esquema de endereçamento;
+     - Endereçamentos de sub-redes.
 
-   -  Noções de Roteamento
+   - Noções de Roteamento
 
 5. Camada de Transporte
 
