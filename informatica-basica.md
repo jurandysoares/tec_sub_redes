@@ -25,65 +25,64 @@ ANEXO II – PROGRAMAS DAS DISCIPLINAS DO NÚCLEO ARTICULADOR
 ### Bases Científico-Tecnológicas (Conteúdos)
 
 1. Introdução a informática
-    * Hardware
-    * Software
+   * Hardware
+   * Software
 
 2. Segurança da informação
 3. Sistemas operacionais
-    * Fundamentos e funções
-    * Sistemas operacionais existentes
-    * Utilização de um sistema operacional
-        * Ligar e desligar o computador
-        * Interfaces de interação
-        * Área de trabalho
-        * Gerenciamento e pastas e arquivos
-        * Ferramentas de sistemas e configurações pessoais
+   * Fundamentos e funções
+   * Sistemas operacionais existentes
+   * Utilização de um sistema operacional
+     * Ligar e desligar o computador
+     * Interfaces de interação
+     * Área de trabalho
+     * Gerenciamento e pastas e arquivos
+     * Ferramentas de sistemas e configurações pessoais
   
 4. Internet
-    * Histórico e fundamentos
-    * Serviços:
-        * World Wide Web
-        * 1. Navegadores
-        * 2. Sistema acadêmico
-        * 3. Pesquisa de Informações
-        * 4. Download de arquivos
-        * 5. Correio eletrônico
-        * 6. Grupos/listas de discussão
-        * 7. Boas práticas de comportamento
-        * Conversa online
-        * Outras aplicações
+   * Histórico e fundamentos
+   * Serviços:
+     * World Wide Web
+       1. Navegadores
+       2. Sistema acadêmico
+       3. Pesquisa de Informações
+       4. Download de arquivos
+       5. Correio eletrônico
+       6. Grupos/listas de discussão
+       7. Boas práticas de comportamento
+          * Conversa online
+          * Outras aplicações
 
 5. Software de edição de texto
-    * Visão geral
-    * Digitação e movimentação de texto
-    * Nomear, gravar e encerrar sessão de trabalho
-    * Controles de exibição
-    * Correção ortográfica e dicionário
-    * Inserção de quebra de página
-    * Recuos, tabulação, parágrafos, espaçamentos e margens
-    * Listas, marcadores e numeradores
-    * Modelos
-    * Figuras e objetos
+   * Visão geral
+   * Digitação e movimentação de texto
+   * Nomear, gravar e encerrar sessão de trabalho
+   * Controles de exibição
+   * Correção ortográfica e dicionário
+   * Inserção de quebra de página
+   * Recuos, tabulação, parágrafos, espaçamentos e margens
+   * Listas, marcadores e numeradores
+   * Modelos
+   * Figuras e objetos
     
 6. Software de planilha eletrônica
-    * Visão geral
-    * Fazendo Fórmula e aplicando funções
-    * Formatando células
-    * Classificando e filtrando dados
-    * Utilizando formatação condicional
-    * Gráficos
+   * Visão geral
+   * Fazendo Fórmula e aplicando funções
+   * Formatando células
+   * Classificando e filtrando dados
+   * Utilizando formatação condicional
+   * Gráficos
 
 7. Software de apresentação
-    * Visão geral do Software
-    * Assistente de criação
-    * Como trabalhar com os modos de exibição de slides
-    * Como imprimir apresentação apresentações, anotações e folhetos
-    * Fazendo uma apresentação: utilizando Listas, formatação de textos, inserção de desenhos,
-     figuras, som,
-    * Vídeo, inserção de gráficos, organogramas, estrutura de cores, segundo plano
-    * Como criar anotações de apresentação
-    * Utilizar transição de slides, efeitos e animação
-    * Softwares aplicativos
+   * Visão geral do Software
+   * Assistente de criação
+   * Como trabalhar com os modos de exibição de slides
+   * Como imprimir apresentação apresentações, anotações e folhetos
+   * Fazendo uma apresentação: utilizando Listas, formatação de textos, inserção de desenhos, figuras, som,
+   * Vídeo, inserção de gráficos, organogramas, estrutura de cores, segundo plano
+   * Como criar anotações de apresentação
+   * Utilizar transição de slides, efeitos e animação
+   * Softwares aplicativos
 
 ### Procedimentos Metodológicos
 
@@ -129,7 +128,7 @@ http://www.brofficeparaleigos.org/
 6. Apostilas e estudos dirigidos desenvolvidos por professores da área de Informática do IFRN
 7. Apostilas disponíveis em http://www.broffice.org/
 
-                                             Software(s) de Apoio:
+### Software(s) de Apoio:
 
 * Suítes de escritório
 * Navegadores
