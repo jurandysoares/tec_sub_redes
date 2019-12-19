@@ -1,6 +1,6 @@
 from recommonmark.parser import CommonMarkParser
-extensions = ['sphinx.ext.mathjax',
-    'sphinx.ext.githubpages']
+#extensions = ['sphinx.ext.mathjax',
+#    'sphinx.ext.githubpages']
 templates_path = ['_templates']
 source_suffix = ['.rst', '.md']
 source_parsers = {
@@ -34,3 +34,12 @@ texinfo_documents = [
      author, 'ts-redes', 'One line description of project.',
      'Miscellaneous'),
 ]
+
+html_context = {
+        "display_github": True, # Add 'Edit on Github' link instead of 'View page source'
+        'github_user': 'jurandysoares',
+        'github_repo': 'tec_sub_redes',
+        'github_version': 'master/',
+        "last_updated": True,
+        "commit": False,
+        }
