@@ -1,0 +1,4 @@
+mkdocs-awesome-pages-plugin
+mkdocs-git-revision-date-localized-plugin
+mkdocs-material-extensions
+mkdocs-pymdownx-material-extras

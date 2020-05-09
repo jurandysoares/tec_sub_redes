@@ -1,0 +1,9 @@
+site_name: Redes
+site_description: Técnico Subsequente em Redes de Computadores
+
+theme:
+  name: material
+  language: pt
+
+plugins:
+  - awesome-pages
