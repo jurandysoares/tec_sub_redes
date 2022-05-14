@@ -1,17 +1,55 @@
-# Welcome to MkDocs
+# Técnico Subsequente em Redes de Computadores
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+```mermaid
 
-## Commands
+graph LR
+    subgraph "1º Período"
+        POR["Português"]
+        MAT["Matemática"]
+        INF["Informática Básica"]
+        RED["Introd. Redes"]
+        ELE["Eletricidade"]
+        QVI["Qualidade Vida"]        
+    end
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+    RED --> ISA & TCP
+    ELE --> ELD
+    INF --> ISA & TCP
 
-## Project layout
+    subgraph "2º Período"
+        ALG["Algoritmos"]
+        ISA["Introdução a Sistemas Abertos"]
+        TCP["Arquitetura TCP/IP"]
+        ELD["Eletrônica Digital"]
+        ING["Inglês Técnico"]
+    end
+    
+    TCP --> INT
+    ALG & TCP --> PRE
+    ISA --> ASA
+    ELD --> CAB
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+    subgraph "3º Período"
+        ASA["Administração de Sistemas Abertos"]
+        CAB["Cabeamento Estruturado"]
+        INT["Interconexões de Redes"]
+        PRE["Programação para Redes"]
+        ASP["Administração de Sistemas Proprietários"]
+        CAD["Desenho Auxiliado pelo Computador"]
+    end
+
+    CAB & INT & ASP --> PI1
+    ASA & PRE --> SEG
+    PRE --> PRW
+    CAB & CAD --> PPR
+    INT --> PPR
+
+    subgraph "4º Período"
+        PPR["Planejamento e Projeto de Redes"]
+        PRW["Programação Web"]
+        SEG["Gerência e Segurança de Redes"]
+        PI1["Projeto Integrador"]
+        SOC["Sociologia do Trabalho"]
+        GOR["Gestão Organizacional"]
+    end
+```
