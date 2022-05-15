@@ -62,7 +62,7 @@ programação.
        Estruturas De Dados (3ª Edição), 2005, Person/Prentice Hall (Grupo Pearson).
 2.     Jeff Edmonds. Como Pensar Sobre Algoritmos, 2010, LTC (Grupo GEN).
 
-                                                  Software(s) de Apoio:
+### Software(s) de Apoio
 
 * Editor de texto não-formatado
 * Compilador e/ou Interpretador

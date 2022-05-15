@@ -1,5 +1,4 @@
-# Programação Web 
-
+# Programação Web
 
 * Curso: Técnico Subsequente em Redes de Computadores
 * Disciplina: Programação Web
@@ -10,6 +9,7 @@
 Proporcionar o conhecimento mínimo necessário para desenvolver aplicações web simples com interatividade.
 
 ## PROGRAMA
+
 ### Objetivos
 
 * Produzir páginas web simples
@@ -60,5 +60,4 @@ Proporcionar o conhecimento mínimo necessário para desenvolver aplicações we
 
 ### Bibliografia Complementar
 
-1.   JON DUCKETT. Introdução À Programação Web Com HTML, XHTML E CSS - 2ª Edição Americana -
-     Ciencia Moderna, 2010.
+1.   JON DUCKETT. Introdução À Programação Web Com HTML, XHTML E CSS - 2ª Edição Americana - Ciencia Moderna, 2010.

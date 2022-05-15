@@ -55,7 +55,7 @@ processos sem servidores de rede UNIX.
 
 1.    Goerzen, John, Foundations of Python 3 Network Programming, Apress 2010
 
-                                                  Software(s) de Apoio:
+### Software(s) de Apoio
 
 * Interpretador Python
 * Editor de Texto
