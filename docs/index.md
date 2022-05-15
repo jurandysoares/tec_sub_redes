@@ -34,22 +34,50 @@ graph LR
         CAB["Cabeamento Estruturado"]
         INT["Interconexões de Redes"]
         PRE["Programação para Redes"]
-        ASP["Administração de Sistemas Proprietários"]
-        CAD["Desenho Auxiliado pelo Computador"]
+        SOC["Sociologia do Trabalho"]
     end
 
-    CAB & INT & ASP --> PI1
+    CAB & INT --> PRI
     ASA & PRE --> SEG
     PRE --> PRW
-    CAB & CAD --> PPR
+    CAB --> PPR
     INT --> PPR
 
     subgraph "4º Período"
         PPR["Planejamento e Projeto de Redes"]
         PRW["Programação Web"]
         SEG["Gerência e Segurança de Redes"]
-        PI1["Projeto Integrador"]
-        SOC["Sociologia do Trabalho"]
+        PRI["Projeto Integrador"]
         GOR["Gestão Organizacional"]
+        ASP["Administração de Sistemas Proprietários"]
+        CAD["Desenho Auxiliado pelo Computador"]
     end
+
+    click ASA "https://mange.ifrn.edu.br/curso/tec_sub_redes/administracao-de-sistemas-abertos/"
+    click ASP "https://mange.ifrn.edu.br/curso/tec_sub_redes/administracao-de-sistemas-proprietarios/"
+    click ALG "https://mange.ifrn.edu.br/curso/tec_sub_redes/algoritmos/"
+    click TCP "https://mange.ifrn.edu.br/curso/tec_sub_redes/arquitetura-tcpip/"
+    click CAB "https://mange.ifrn.edu.br/curso/tec_sub_redes/cabeamento-estruturado-e-redes-de-acesso/"
+    click CAD "https://mange.ifrn.edu.br/curso/tec_sub_redes/cad/"
+    click ELE "https://mange.ifrn.edu.br/curso/tec_sub_redes/eletricidade/"
+    click ELD "https://mange.ifrn.edu.br/curso/tec_sub_redes/eletronica-digital/"
+    click SEG "https://mange.ifrn.edu.br/curso/tec_sub_redes/gerencia-e-seguranca-de-redes/"
+    click GOR "https://mange.ifrn.edu.br/curso/tec_sub_redes/gestao-organizacional/"
+    click INF "https://mange.ifrn.edu.br/curso/tec_sub_redes/informatica-basica/"
+    click ING "https://mange.ifrn.edu.br/curso/tec_sub_redes/ingles-tecnico/"
+    click INT "https://mange.ifrn.edu.br/curso/tec_sub_redes/interconexao-de-redes/"
+    click ISA "https://mange.ifrn.edu.br/curso/tec_sub_redes/introducao-a-sistemas-abertos/"
+    click RED "https://mange.ifrn.edu.br/curso/tec_sub_redes/introducao-as-redes-de-computadores/"
+    click POR "https://mange.ifrn.edu.br/curso/tec_sub_redes/lingua-portuguesa/"
+    click MAT "https://mange.ifrn.edu.br/curso/tec_sub_redes/matematica/"
+    click PPR "https://mange.ifrn.edu.br/curso/tec_sub_redes/planejamento-e-projeto-de-redes/"
+    click PRE "https://mange.ifrn.edu.br/curso/tec_sub_redes/programacao-para-redes/"
+    click PRW "https://mange.ifrn.edu.br/curso/tec_sub_redes/programacao-web/"
+    click PRI "https://mange.ifrn.edu.br/curso/tec_sub_redes/projeto-integrador/"
+    click QVI "https://mange.ifrn.edu.br/curso/tec_sub_redes/qualidade-de-vida-e-trabalho/"
+    click SOC "https://mange.ifrn.edu.br/curso/tec_sub_redes/sociologia-do-trabalho/"
+
 ```
+
+
+

@@ -6,4 +6,4 @@ theme:
   language: pt
 
 plugins:
-  - awesome-pages
+  - mermaid2
