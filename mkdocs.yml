@@ -4,6 +4,8 @@ site_description: Técnico Subsequente em Redes de Computadores
 theme:
   name: material
   language: pt
+  palette:
+    primary: green
 
 plugins:
   - mermaid2
